@@ -169,20 +169,20 @@ a {
 h1 {
   color: #f27b43;
   font-size: 2.5rem;
-  margin-bottom: 1em;
+  margin-bottom: 0rem;
   vertical-align: baseline;
   line-height: 3rem;
 }
 
 
 h1 a {
-  color: #FFF !important;
+  color: #f27b43 !important;
 }
 
 h1::after {
   color: #faac88;
   content: "Poterie, céramique";
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   float: right;
   text-align: right;
   margin-left: 50px;
