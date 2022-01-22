@@ -24,5 +24,4 @@ Site statique généré avec Github Pages Gallery, qui utilise Thumbsup & Github
 3. Confirmer la suppression en cliquant sur le bouton vert "Commit Changes"
 
 #### Divers
-- Descriptions des photos
-Quand on les affiche sur le site, certaines photos ont pour description "Olympus digital camera". C'est le champ "Description" des métadonnées des photos qui est récupéré et affiché. Il vaut mieux soit effacer cette donnée avant l'upload de la photo, ou en profiter pour mettre une description plus pertinente.
+- Descriptions des photos - Quand on les affiche sur le site, certaines photos ont pour description "Olympus digital camera". C'est le champ "Description" des métadonnées des photos qui est récupéré et affiché. Il vaut mieux soit effacer cette donnée avant l'upload de la photo, ou en profiter pour mettre une description plus pertinente.
