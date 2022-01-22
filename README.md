@@ -22,3 +22,6 @@ Site statique généré avec Github Pages Gallery, qui utilise Thumbsup & Github
 1. Se rendre dans le dossier "[gallery](https://github.com/ici-be/veramique/tree/master/gallery)" du projet, puis dans le sous-dossier "album" à supprimer. A ne pas faire pour le dossier "gallery" lui-même, sinon le site va casser...
 2. Cliquer sur le bouton "...", puis sur "Delete directory"
 3. Confirmer la suppression en cliquant sur le bouton vert "Commit Changes"
+
+#### Descriptions des photos
+Quand on les affiche sur le site, certaines photos ont pour description "Olympus digital camera". C'est le champ "Description" des métadonnées des photos qui est récupéré et affiché. Il vaut mieux soit effacer cette donnée avant l'upload de la photo, ou en profiter pour mettre une description plus pertinente.
