@@ -29,7 +29,7 @@ h1 a {
 }
 
 h1::after {
-  color: #f27b43;;
+  color: #f27b43;
   content: "Poterie, céramique";
   font-size: 1.5rem;
   float: right;
