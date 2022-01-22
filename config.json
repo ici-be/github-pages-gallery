@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "Veramique Text",
   "usage-stats": false
 }
