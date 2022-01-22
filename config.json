@@ -8,7 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "<div class=citation><i>« La fonction que j’assigne aux objets, au-delà de leur éventuel usage, est de redonner du sens aux gestes et une valeur au temps… »</i>
-<br /><br />Jean Girel (sagesse du potier)</div>25 van Espenlaan - 1930 Nossegem (Belgique)<br />+32/494.06.93.07 - veramique@yahoo.fr<br />veramique.be",
+  "footer": "25 van Espenlaan - 1930 Nossegem (Belgique)<br />+32/494.06.93.07 - veramique@yahoo.fr<br />veramique.be",
   "usage-stats": false
 }
