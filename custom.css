@@ -29,6 +29,6 @@ footer {
   padding-bottom: 3rem;
 }
 
-breadcrumb-item a {
+nav.breadcrumbs {
   font-weight: bold;
 }
