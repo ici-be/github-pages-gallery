@@ -180,7 +180,7 @@ h1 a {
 }
 
 h1::after {
-  color: #faac88;
+  color: #F6F6F6;
   content: "poterie, céramique";
   font-size: 1.8rem;
   float: right;
@@ -197,9 +197,9 @@ footer {
 }
 
 footer p {
-  color: #CBCBCB;
+  color: #F6F6F6;
   font-size: 1.1rem;
-  line-height: 1.7rem;
+  line-height: 2rem;
   font-style: normal;
   font-weight: bold;
   margin-top: 1rem;
