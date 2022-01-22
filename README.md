@@ -2,12 +2,12 @@
 Site statique généré avec Github Pages Gallery, qui utilise Thumbsup & Github Actions.
 
 #### Créer un nouvel album
-1. Go to the gallery folder of the forked repo.
-2. Click on Create a new file button.
-3. Type AlbumName/.gitkeep in the input box
-4. Click Commit Changes button at the bottom.
+1. Se rendre dans le dossier "[gallery](https://github.com/ici-be/veramique/tree/master/gallery)" du projet.
+2. Cliquer sur le bouton "Add file" puis "Create new file" (à droite, près des "...").
+3. Ecrire par exemple Expo 2021/.gitkeep dans le champ texte "Name your file..."
+4. Cliquer sur le bouton vert "Commit Changes", en bas.
 
 #### Ajouter des photos
-1. Go to gallery folder. Open any albums if any.
-2. Click on Upload files button
-3. Select files. Once it finishes upload, click Commit Changes button.
+1. Se rendre dans le dossier "[gallery](https://github.com/ici-be/veramique/tree/master/gallery)" du projet, ou dans l'un de ses sous-dossiers correspondants aux albums créés.
+2. Cliquer sur le bouton "Add files", puis "Upload files"
+3. Sélectionner les photos à uploader. Une fois que l'upload est terminé, cliquer sur le bouton vert "Commit Changes". Le site se mettre à jour en une à deux minutes environ.
