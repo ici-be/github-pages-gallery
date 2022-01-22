@@ -16,11 +16,18 @@ a {
 }
 
 h1 {
+  font-size: 2.5rem;
   margin-bottom: 1em;
 }
 
-h1 a {
-  color: #fff;
+h1::after {
+  color: #8ac3f6;
+  content: "Poterie, céramique";
+  font-size: 1.5rem;
+  float: right;
+  text-align: right;
+  margin-left: 50px;
+  vertical-align: baseline;
 }
 
 footer {
