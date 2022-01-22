@@ -167,9 +167,10 @@ a {
   text-decoration: none;
 }
 
-h1 {
+h1 a {
   font-size: 2.5rem;
   margin-bottom: 1em;
+  vertical-align: baseline;
 }
 
 h1::after {
