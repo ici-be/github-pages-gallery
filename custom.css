@@ -40,7 +40,7 @@ h1::after {
 }
 
 footer {
-  margin-top: 3em;
+  margin-top: 4rem;
   border-top: 1px solid #f27b43;
 }
 
@@ -65,5 +65,5 @@ display: none;
 }
 
 header {
-  margin-bottom: 2em;
+  margin-bottom: 2rem;
 }
