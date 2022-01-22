@@ -1,13 +1,13 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Photo Gallery",
+  "title": "Véronique Cambier - Poterie, céramique",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Veramique Text",
+  "footer": "25 van Espenlaan - 1930 Nossegem (Belgique) | +32/494.06.93.07 | veramique@yahoo.fr | veramique.be",
   "usage-stats": false
 }
