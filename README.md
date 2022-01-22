@@ -1,4 +1,4 @@
-# Veramique
+# Véramique
 Site statique généré avec Github Pages Gallery, qui utilise Thumbsup & Github Actions.
 
 #### Créer un nouvel album
