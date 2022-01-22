@@ -1,1 +1,18 @@
 /* Your custom styles goes here */
+body {
+  background: #444;
+  color: #fff;
+}
+
+a {
+  color: #CCC;
+  text-decoration: none;
+}
+
+h1 a {
+  color: #444;
+}
+
+footer {
+  color: #CBCBCB;
+}
