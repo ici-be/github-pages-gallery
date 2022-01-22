@@ -167,9 +167,12 @@ a {
   text-decoration: none;
 }
 
+h1 {
+  margin-bottom: 1em;
+}
+
 h1 a {
   color: #fff;
-  margin-bottom: 1em;
 }
 
 footer {
