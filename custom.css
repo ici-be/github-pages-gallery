@@ -1,6 +1,6 @@
 /* Your custom styles goes here */
 body {
-  background: #444;
+  background: #000;
   color: #fff;
 }
 
@@ -10,9 +10,10 @@ a {
 }
 
 h1 a {
-  color: #444;
+  color: #fff;
 }
 
 footer {
   color: #CBCBCB;
+  font-size
 }
