@@ -17,3 +17,10 @@ footer {
   color: #CBCBCB;
   font-size
 }
+
+#container {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
