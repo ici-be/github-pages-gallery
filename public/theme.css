@@ -182,6 +182,10 @@ footer p {
 }
 
 nav.breadcrumbs {
-  font-weight: bold;
+dislay: none;
+}
+
+header {
+  margin-bottom: 2em;
 }
 
