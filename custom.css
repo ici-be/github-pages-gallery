@@ -25,3 +25,7 @@ footer {
   padding-top: 3rem;
   padding-bottom: 3rem;
 }
+
+#breadcrumb-item {
+  font-weight: bold;
+}
