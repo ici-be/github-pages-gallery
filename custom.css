@@ -29,13 +29,14 @@ h1 a {
 
 h1::after {
   color: #faac88;
-  content: "Poterie, céramique";
-  font-size: 2.5rem;
+  content: "poterie, céramique";
+  font-size: 1.8rem;
   float: right;
   text-align: right;
   margin-left: 50px;
   vertical-align: baseline;
   line-height: 3rem;
+  margin-top: 0.25rem;
 }
 
 footer {
