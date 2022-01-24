@@ -41,7 +41,6 @@ h1::after {
 
 footer {
   margin-top: 4rem;
-  border-top: 1px solid #f27b43;
 }
 
 footer::before {
@@ -51,15 +50,6 @@ footer::before {
   margin-bottom: 20px;
   padding-top: 100px;
   font-weight: bolder;
-}
-
-footer p {
-  color: #F6F6F6;
-  font-size: 1.1rem;
-  line-height: 2rem;
-  font-style: normal;
-  font-weight: bold;
-  margin-top: 1rem;
 }
 
 #container {
@@ -77,6 +67,11 @@ display: none;
   border-top: 1px solid #f27b43;
   padding-top: 1rem;
   margin-top: 3rem;
+    color: #F6F6F6;
+  font-size: 1.1rem;
+  line-height: 2rem;
+  font-style: normal;
+  font-weight: bold;
 }
 
 header {
