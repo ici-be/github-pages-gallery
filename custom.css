@@ -44,6 +44,15 @@ footer {
   border-top: 1px solid #f27b43;
 }
 
+footer::before {
+  content: "« La fonction que j’assigne aux objets, au-delà de leur éventuel usage, est de redonner du sens aux gestes et une valeur au temps… » Jean Girel (sagesse du potier)";
+  color: #f27b43;
+  font-size: 1.15rem;
+  margin-bottom: 20px;
+  padding-top: 100px;
+  font-weight: bolder;
+}
+
 footer p {
   color: #F6F6F6;
   font-size: 1.1rem;
@@ -62,6 +71,12 @@ footer p {
 
 .breadcrumbs {
 display: none;
+}
+
+.address {
+  border-top: 1px solid #f27b43;
+  padding-top: 1rem;
+  margin-top: 3rem;
 }
 
 header {
