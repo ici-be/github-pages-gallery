@@ -74,6 +74,14 @@ display: none;
   font-weight: bold;
 }
 
+.summary {
+display:none;
+}
+
+.date {
+display:none;
+}
+
 header {
   margin-bottom: 2rem;
 }
