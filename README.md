@@ -26,3 +26,4 @@ Site statique généré avec Github Pages Gallery, qui utilise Thumbsup & Github
 #### Divers
 - **Descriptions des photos** Quand on les affiche sur le site, certaines photos ont pour description "Olympus digital camera". C'est le champ "Description" des métadonnées des photos qui est récupéré et affiché. Il vaut mieux soit effacer cette donnée avant l'upload de la photo, ou en profiter pour mettre une description plus pertinente.
 - **Changer le titre** Ouvrir le fichier config.json avec le bouton d'édition (crayon), modifier la valeur de "title" puis cliquer sur "Commit changes"
+- **Photo d'album** la première par ordre alphabétique. Préfixer d'un underscore "_" pour plus de facilié
